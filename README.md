@@ -16,3 +16,4 @@ ONLY 3.3v allowed with esp8266 boards. You gonna fry these boards with 5v.
 
 
 Frizzing Files are in the repo! Feel free to use, share and improve.
+...
